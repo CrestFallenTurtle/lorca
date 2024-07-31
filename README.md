@@ -1,7 +1,7 @@
 # Lorca
 
-[![Build Status](https://github.com/CrestFallenTurtle/lorca/lorca/actions/workflows/ci.yml/badge.svg)](https://github.com/CrestFallenTurtle/lorca/lorca/actions/workflows/ci.yml)
-[![GoDoc](https://godoc.org/github.com/CrestFallenTurtle/lorca/lorca?status.svg)](https://godoc.org/github.com/CrestFallenTurtle/lorca/lorca)
+[![Build Status](https://github.com/CrestFallenTurtle/lorca/actions/workflows/ci.yml/badge.svg)](https://github.com/CrestFallenTurtle/lorca/actions/workflows/ci.yml)
+[![GoDoc](https://godoc.org/github.com/CrestFallenTurtle/lorca?status.svg)](https://godoc.org/github.com/CrestFallenTurtle/lorca)
 [![Go Report Card](https://goreportcard.com/badge/CrestFallenTurtle/lorca)](https://goreportcard.com/report/CrestFallenTurtle/lorca)
 
 <div>
@@ -52,7 +52,7 @@ import (
 	"log"
 	"net/url"
 
-	"github.com/CrestFallenTurtle/lorca/lorca"
+	"github.com/CrestFallenTurtle/lorca"
 )
 
 func main() {

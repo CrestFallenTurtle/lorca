@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/CrestFallenTurtle/lorca/lorca"
+	"github.com/CrestFallenTurtle/lorca"
 )
 
 //go:embed www

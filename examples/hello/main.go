@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/url"
 
-	"github.com/CrestFallenTurtle/lorca/lorca"
+	"github.com/CrestFallenTurtle/lorca"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/CrestFallenTurtle/lorca/lorca"
+	"github.com/CrestFallenTurtle/lorca"
 )
 
 func main() {

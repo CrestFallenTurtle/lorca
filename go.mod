@@ -1,4 +1,4 @@
-module github.com/CrestFallenTurtle/lorca/lorca
+module github.com/CrestFallenTurtle/lorca
 
 go 1.16
 
